@@ -49,6 +49,7 @@ nav [alt="actions"]{
 .intro-section{
     display: flex;
     padding: 20px;
+    height: 84vh;
     align-items: flex-end;
 }
 
