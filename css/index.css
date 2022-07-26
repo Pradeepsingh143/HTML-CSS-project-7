@@ -50,11 +50,12 @@ nav [alt="actions"]{
     display: flex;
     padding: 20px;
     height: 84vh;
-    align-items: flex-end;
+    align-items: center;
 }
 
 .left-section{
     width: 60%;
+    margin-top: 50px;
 }
 .right-section{
     width: 40%;
